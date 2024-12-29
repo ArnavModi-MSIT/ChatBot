@@ -1,0 +1,95 @@
+[
+    {
+      "question": "What is a variable in programming?",
+      "answer": "A variable is a storage location identified by a memory address and an associated symbolic name (identifier), which contains some known or unknown quantity of information referred to as a value."
+    },
+    {
+      "question": "What is a function in programming?",
+      "answer": "A function is a block of code that performs a specific task. It can accept inputs (parameters) and return a result."
+    },
+    {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "answer": "A list is mutable, meaning you can modify its content after creation, whereas a tuple is immutable, meaning its content cannot be changed once it's created."
+    },
+    {
+      "question": "What is recursion in programming?",
+      "answer": "Recursion is a process where a function calls itself directly or indirectly to solve a problem, usually breaking it down into smaller subproblems."
+    },
+    {
+      "question": "What is the purpose of a class in object-oriented programming?",
+      "answer": "A class is a blueprint for creating objects (instances), defining their properties and behaviors through attributes and methods."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or set of rules used to solve a problem or complete a task."
+    },
+    {
+      "question": "What is the difference between '==' and 'is' in Python?",
+      "answer": "'==' checks for equality of values, while 'is' checks if two variables refer to the same object in memory."
+    },
+    {
+      "question": "What is the difference between a stack and a queue?",
+      "answer": "A stack follows the Last In, First Out (LIFO) principle, where the last element added is the first one to be removed. A queue follows the First In, First Out (FIFO) principle, where the first element added is the first one to be removed."
+    },
+    {
+      "question": "What is the time complexity of a binary search algorithm?",
+      "answer": "The time complexity of binary search is O(log n), as it repeatedly divides the search space in half."
+    },
+    {
+      "question": "What is a dictionary in Python?",
+      "answer": "A dictionary in Python is an unordered collection of key-value pairs, where each key is unique."
+    },
+    {
+      "question": "What is a lambda function in Python?",
+      "answer": "A lambda function is an anonymous function defined with the 'lambda' keyword, often used for short, throwaway functions."
+    },
+    {
+      "question": "What is the difference between a for loop and a while loop?",
+      "answer": "A for loop iterates over a sequence (like a list or range), while a while loop continues executing as long as a condition is true."
+    },
+    {
+      "question": "What is a memory leak in programming?",
+      "answer": "A memory leak occurs when a program allocates memory but fails to release it when no longer needed, eventually causing a decrease in system performance."
+    },
+    {
+      "question": "What are regular expressions used for?",
+      "answer": "Regular expressions (regex) are used for pattern matching within strings, allowing complex searches, substitutions, and validations."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "An API (Application Programming Interface) is a set of functions and protocols that allows different software applications to communicate with each other."
+    },
+    {
+      "question": "What is a deadlock in multithreading?",
+      "answer": "A deadlock occurs when two or more threads are blocked forever, each waiting for the other to release a resource."
+    },
+    {
+      "question": "What is the purpose of an IDE in programming?",
+      "answer": "An Integrated Development Environment (IDE) provides tools like code editing, debugging, and compiling to simplify software development."
+    },
+    {
+      "question": "What is the purpose of the 'self' keyword in Python?",
+      "answer": "'self' refers to the current instance of the class, allowing access to its attributes and methods within class methods."
+    },
+    {
+      "question": "What is the purpose of Git?",
+      "answer": "Git is a version control system that allows developers to track changes in code and collaborate with others."
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "answer": "SQL databases are relational, use structured data and predefined schemas, whereas NoSQL databases are non-relational and handle unstructured or semi-structured data."
+    },
+    {
+      "question": "What is a constructor in object-oriented programming?",
+      "answer": "A constructor is a special method used to initialize objects when they are created, usually setting initial values for object attributes."
+    },
+    {
+      "question": "What is a middleware in Django?",
+      "answer": "Middleware in Django is a layer of hooks into the request/response processing cycle, used to process requests globally before reaching views or responses before being sent to the client."
+    },
+    {
+      "question": "What is an exception in programming?",
+      "answer": "An exception is an error or unexpected event that occurs during the execution of a program, which can be handled using try/except blocks."
+    }
+]
+
